@@ -1,1 +1,1 @@
-My first readme
+This repository contains various git commands
